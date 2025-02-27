@@ -29,10 +29,17 @@
     <Compile Include="mainPackage\__init__.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="rentalPackage\rental.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="rentalPackage\__init__.py">
+      <SubType>Code</SubType>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Car_package\" />
     <Folder Include="mainPackage\" />
+    <Folder Include="rentalPackage\" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
