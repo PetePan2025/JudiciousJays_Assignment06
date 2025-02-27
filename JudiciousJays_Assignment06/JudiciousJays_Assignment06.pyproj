@@ -25,6 +25,12 @@
     <Compile Include="Car_package\__init__.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="customer_package\customer.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="customer_package\__init__.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="mainPackage\main.py" />
     <Compile Include="mainPackage\__init__.py">
       <SubType>Code</SubType>
@@ -32,6 +38,7 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Car_package\" />
+    <Folder Include="customer_package\" />
     <Folder Include="mainPackage\" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
