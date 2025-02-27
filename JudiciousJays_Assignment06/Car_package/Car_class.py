@@ -1,6 +1,6 @@
-# File Name : main.py
-# Student Name: Peter Phan, Uruz Bidiwala, Zoha Iqbal, Saivamsi Reddy Amireddy
-# email:  phanpv@mail.uc.edu, bidiwaur@mail.uc.edu, iqbalza@mail.uc.edu, amiredsr@mail.uc.edu
+# File Name : Car_class.py
+# Student Name: Saivamsi Reddy Amireddy
+# email:  amiredsr@mail.uc.edu
 # Assignment Number: Assignment 06
 # Due Date:   2/27/2025
 # Course #/Section:   IS4010-001
