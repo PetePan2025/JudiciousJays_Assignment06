@@ -2,13 +2,13 @@
 # Student Name: Uruz Bidiwala
 # email:  bidiwaur@mail.uc.edu
 # Assignment Number: Assignment 06
-# Due Date:   Feb 27, 2025
-# Course #/Section: IS 4010-001
+# Due Date:  02/27/25
+# Course #/Section: IS4010-001
 # Semester/Year:   Spring 2025
 # Brief Description of the assignment: Group assignment
 
-# Brief Description of what this module does. {Do not copy/paste from a previous assignment. Put some thought into this. required}
-# Citations: {"Stack Overflow" is not sufficient. Provide repeatable links, book page #, etc.}
+# Brief Description of what this module does. Demonstrate knowledge on Object-Oriented Programming
+# Citations: 
 
 # Anything else that's relevant:
 
